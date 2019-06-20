@@ -1,2 +1,2 @@
 # test_test_test
-tests
+Today we're learning about tests!
